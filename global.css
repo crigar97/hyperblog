@@ -8,3 +8,10 @@
     --small: 2rem;
     --xsmal: 1.5rem;
 }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
