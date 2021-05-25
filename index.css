@@ -35,3 +35,18 @@
     color: white;
     font-size: var(--small);
 }
+
+.main {
+    min-height: 80vh;
+}
+
+.footer {
+    padding: 1rem 4rem;
+    color: #fff;
+    background-color: #000;
+}
+
+.footer__description{
+    text-align: center;
+    font-size: var(--medium);
+}
